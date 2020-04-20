@@ -6,6 +6,12 @@ Solar  Gravitational Lens (SGL) project.
 This readme provides an inexhaustive description of the contents
 herein, by directory.
 
+## Note on /img, /images and circle.zip
+
+The folder ``/img`` is meant to contain ``/images`` and ``circle.zip``, and ``/img``
+is meant to be inside of ``/suntracer``, but I cannot for the life of me get GitHub to
+cooperate with moving directories. A description of ``/img`` can be found in the
+``/suntracer`` section.
 
 ## /documents
 
