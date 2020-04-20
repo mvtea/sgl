@@ -1,4 +1,4 @@
-# tea_sgl
+# sgl
 
 This directory contains all the documents and programs I (Mason
 V. Tea) utilized over the course of my work on the
@@ -27,7 +27,7 @@ above.
 * ``sgl_decon`` is a Pages document outlining the roadmap of the
 deconvolution process for SGL images.
 
-* ``sgl_mission.pdf`` is aa brief summary of the relevant
+* ``sgl_mission.pdf`` is a brief summary of the relevant
 parameters to consider in regards to the SGL system.
 
 * ``sgl_software.pdf`` is a review of various available softwares
